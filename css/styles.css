@@ -1,0 +1,247 @@
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.meet {
+    color: rgb(249, 240, 240);
+    padding-top: 60px;
+}
+
+.phonedog {
+    padding-top: 80px;
+    transform: rotate(20deg);
+}
+
+h1,
+h2,
+h3 {
+
+    font-family: "Montserrat";
+    font-size: 50px;
+    line-height: 1.5;
+}
+
+p {
+    color: gray;
+}
+
+.big-heading {
+    font-family: "kanit";
+    font-size: 3.5rem;
+    line-height: 1.5;
+    padding: 10px;
+    text-align: center;
+}
+
+.big-heading-button {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.meet {
+    text-align: left;
+    font-size: 300%;
+}
+
+.title-button {
+    text-align: left;
+}
+
+.section-heading {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+/* container */
+.container-fluid {
+    padding: 7% 15%;
+}
+
+.fill {
+    padding: 2% 9%;
+}
+
+/* section */
+.coloured-section {
+    background-color: #ff4c68;
+    color: #fff
+}
+
+.white-section {
+    background-color: #fff;
+}
+
+/* navigation bar */
+.navigation-bar {
+    padding-bottom: 4rem;
+    margin-right: 100px;
+}
+
+.nav-item {
+    font-family: "unbounded";
+
+    padding: 0px 10px;
+    font-size: 20px;
+}
+
+.nav-link {
+    font-size: 20px;
+}
+
+.brandname {
+    font-family: "kanit";
+    font-size: 50px;
+    /* font-weight: bold; */
+}
+
+/* download-button */
+.download-button {
+    margin: 5% 3% 5% 0%;
+}
+
+#title {
+    text-align: left;
+}
+
+.title-image {
+    width: 60%;
+    transform: rotate(20deg);
+    position: absolute;
+    right: 60%;
+}
+
+/* features-section */
+#features {
+    padding: 7% 15%;
+    position: relative;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
+    margin-bottom: 1rem;
+}
+
+/* testimonials sections */
+#testimonials {
+
+    text-align: center;
+    background-color: #ef8172;
+    color: #ffff;
+}
+
+.testimonial-image {
+    width: 25%;
+    height: 20%;
+    border-radius: 100%;
+    margin-top: 30px;
+}
+
+.carousel-item {
+    padding: 7% 20%;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    height: 15%;
+    margin: 20px 20px 50px;
+}
+
+.card {
+    padding: 20px 0px;
+    margin: 5px 10px;
+}
+
+.card-reader {
+    text-align: center;
+}
+
+.card-body {
+    text-align: center;
+
+}
+
+.card-sign-up {
+    width: 100%;
+}
+
+#pricing {
+    padding: 150px;
+}
+
+.price-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.pricing-heading {
+    font-family: "kanit";
+    font-weight: 900;
+    font-size: 50px;
+    text-align: center;
+}
+
+.pricing-heading-subheading {
+    text-align: center;
+}
+
+.breed {
+    font-family: "patua one";
+}
+
+/* cta */
+/* #cta{
+    background-color: #ff4c68;
+    color: #fff;
+} */
+/* footer-section */
+.social-icon {
+    margin: 20px 10px;
+}
+
+@media(max-width: 803px) {
+    #title {
+        text-align: center;
+    }
+
+    .phonedog {
+        position: static;
+        transform: rotate(0);
+    }
+
+}
+
+#title {
+    text-align: center;
+}
+
+.title-image {
+    position: static;
+    transform: rotate(0);
+}
+
+.footer-icon {
+    font-size: 50px;
+    align-items: center;
+}
+
+.foot {
+    text-align: center;
+}
